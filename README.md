@@ -1,2 +1,2 @@
-# react
-Curso de React: De cero a Experto
+# Aprendiendo React
+React: De cero a Experto de Fernando Herrera
