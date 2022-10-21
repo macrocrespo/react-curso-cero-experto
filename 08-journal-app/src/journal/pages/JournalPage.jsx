@@ -9,8 +9,8 @@ export const JournalPage = () => {
         {/* <Typography variant="h1">Journal Page</Typography>
         <Typography>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum nesciunt enim doloribus, maxime sint eveniet quasi! Iusto doloremque adipisci reprehenderit.</Typography> */}
     
-        {/* <NothingSelectedView /> */}
-        <NoteView />
+        <NothingSelectedView />
+        {/* <NoteView />
 
         <IconButton
             size="large"
@@ -24,7 +24,7 @@ export const JournalPage = () => {
              }}
         >
             <AddOutlined sx={{ fontSize: 40 }} />
-        </IconButton>
+        </IconButton> */}
 
     </JournalLayout>
   )
